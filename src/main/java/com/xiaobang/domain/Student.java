@@ -6,8 +6,10 @@ package com.xiaobang.domain;
  * @Description
  */
 public class Student {
+
     private String name;
     private String age;
+    private String id;
 
     public Student() {
     }
